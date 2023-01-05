@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669212766 source:g:\kuliah semester 3\struktur data\praktikum\clo1\clo1\main.cpp
+	"clo1.h"
+
+1669208450 g:\kuliah semester 3\struktur data\praktikum\clo1\clo1\clo1.h
+	<iostream>
+
+1669215737 source:g:\kuliah semester 3\struktur data\praktikum\clo1\clo1\clo1.cpp
+	"clo1.h"
+
